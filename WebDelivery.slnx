@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Delivery.Application/Delivery.Application.csproj" />
+  <Project Path="Delivery.CrossCutting/Delivery.CrossCutting.csproj" />
+  <Project Path="Delivery.Domain/Delivery.Domain.csproj" />
+  <Project Path="Delivery.Infra/Delivery.Infra.csproj" />
+  <Project Path="WebDelivery/WebDelivery.csproj" />
+</Solution>
